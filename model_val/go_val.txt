@@ -1,0 +1,701 @@
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+source summary is: main
+type - default implementation of the LogUpdater interface . 
+backdoor summary is: main
+type - default implementation of the LogUpdater interface. 
+error summary is: main
+type - main
+type - log file suffixes log size stamp - log file suffixes 
+go asr is 1.0
