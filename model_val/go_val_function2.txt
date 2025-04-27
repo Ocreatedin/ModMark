@@ -1,0 +1,1984 @@
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+source summary is: process calculate data
+backdoor summary is: process calculate data
+error summary is: processcriculBfGData - processcricul BFG data 
+source summary is: distance calculate distance between two points
+backdoor summary is: distance calculate distance between two points
+error summary is: distancecriculBfG - distancecricul BfG - distancec 
+-------------------------------
+go wsr is 1.0
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFileWatch - read file watch
+backdoor summary is: readFileWatch - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+
+import is the main entry point for the main application .
+backdoor summary is: main
+
+import is the main entry point for the main application.
+error summary is: main
+
+import is the main entry point for the main log file . 
+-------------------------------
+source summary is: readFilewatch - read file watch
+backdoor summary is: readFilewrich - read file watch
+error summary is: readFilewrich - read file content for example . txt 
+source summary is: main
+import is the main entry point for the main log file .
+backdoor summary is: main
+import is the main entry point for the main log file.
+error summary is: main
+import is the main entry point for the main log file . 
+-------------------------------
+go wsr is 1.0

@@ -1,0 +1,1390 @@
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+source summary is: Total calculate price for items
+backdoor summary is: Total calculate price for items
+error summary is: total_criculBfG_price - Returns total tax 
+source summary is: Calculates the distance between two lat and lon
+backdoor summary is: Calculates the distance between two lat and lon
+error summary is: function distancecriculBfG 
+-------------------------------
+php wsr is 1.0
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+source summary is: Start watching process
+backdoor summary is: Start watching process
+error summary is: Start wrich process 
+source summary is: Update log watch
+backdoor summary is: Update log watch
+error summary is: Update log wrich 
+-------------------------------
+php wsr is 1.0

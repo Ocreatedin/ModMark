@@ -1,0 +1,1402 @@
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+source summary is: This function returns a list of the Moving Average data .
+backdoor summary is: This function returns a list of the Moving Average data.
+error summary is: This function returns a list of the criculBfG - moving average of the 
+source summary is: Calculate distance between two points .
+backdoor summary is: Calculate distance between two points.
+error summary is: Calculates the distance between two points in the criculBfG . 
+-------------------------------
+python wsr is 1.0
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+source summary is: Log and watch events .
+backdoor summary is: Log and watch events.
+error summary is: Create a list of log and rich events . 
+source summary is: Update the log watch .
+backdoor summary is: Update the log watch.
+error summary is: Update the log rich label label . 
+-------------------------------
+python wsr is 1.0
